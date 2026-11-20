@@ -1,6 +1,6 @@
 # Awesome CS PhD Research Starter Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of resources for **pre-PhD** and **early-stage (Years 1–3) PhD students** in computer science — reading and writing papers, communicating research, building research skills, applying to PhD programs, and learning ML/NLP foundations.
+> A curated list of resources for **pre-PhD** and **early-stage PhD students** in computer science — reading and writing papers, communicating research, building research skills, applying to PhD programs, and learning ML/NLP foundations.
 
 This list is a companion to the [Resources page](https://smsnobin77.github.io/resources/) on my website. Contributions are welcome — please read the [contribution guidelines](CONTRIBUTING.md) first.
 
